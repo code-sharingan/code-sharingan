@@ -95,9 +95,11 @@ React | FastAPI | AWS Lambda
 ## 🤝 Open to Work  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-🌟-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hiring%20Roles-Software%20Engineer%20%7C%20ML%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼-Open_to_Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Engineer-blue?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/ML_Engineer-orange?style=for-the-badge&logo=tensorflow" />
 </p>
+
 
 
 ---
