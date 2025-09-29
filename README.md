@@ -17,8 +17,10 @@
 - **Languages:** Java, C#, C++, Python, JavaScript, TypeScript  
 - **Web & Frameworks:** React, Vue.js, Django, Spring Boot, Tailwind, .NET MAUI  
 - **Databases:** SQL (MySQL, SQL Server), NoSQL (MongoDB)  
-- **Cloud:** AWS (EC2, Lambda, Amplify, API Gateway, EFS), Microsoft Azure  
-- **Other:** Git/GitHub, Agile (Scrum, Kanban), REST APIs, Microservices, MVC Architecture  
+- **Cloud:** AWS (EC2, Lambda, Amplify, API Gateway, EFS), Microsoft Azure
+- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Generative AI & Prompt Engineering:** OpenAI API, LangChain, Prompt Design, AI Agents (n8n, Auto-GPT)  
+- **Other:** Git/GitHub, Agile (Scrum, Kanban), REST APIs, Microservices, MVC Architecture
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,react,django,spring,aws,azure,mysql,mongodb,git" />
@@ -98,6 +100,7 @@ React | FastAPI | AWS Lambda
   <img src="https://img.shields.io/badge/💼-Open_to_Work-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software_Engineer-blue?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/ML_Engineer-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Prompt_Engineer-purple?style=for-the-badge&logo=openai" />
 </p>
 
 
