@@ -77,7 +77,7 @@ React | FastAPI | AWS Lambda
 
 ## 📖 What I’m Learning Now  
 
-🔹 Building **Freedom Ledger** — a finance management web app (Capstone Project):  
+🔹 Building **Freedom Ledger** — a finance management web app :  
 - **Backend:** Python FastAPI + PostgreSQL (AWS RDS) + Redis Cloud caching  
 - **Frontend:** Next.js/React with group invites, chat modals, budgeting UI  
 - **Integrations:** Plaid API (transactions), Firebase Auth, AWS hosting  
